@@ -3,7 +3,9 @@
 
 # Audio (Dolby Atmos)
 vendor/etc/dolby/dax-default.xml
+-vendor/lib/libfloatingfeature.so
 -vendor/lib/soundfx/libswdap.so
+-vendor/lib/libsecaudioinfo.so
 
 # Audio (Firmware)
 vendor/firmware/APBargeIn_AUDIO_SLSI.bin
@@ -60,11 +62,8 @@ vendor/firmware/setfile_3j1.bin
 vendor/firmware/setfile_gw2.bin
 
 # GPS/GNSS
+-vendor/bin/hw/gpsd
 -vendor/lib64/libwrappergps.so
-
-# Hotword Enrollment
--product/priv-app/HotwordEnrollmentOKGoogleEx2CORTEXM4/HotwordEnrollmentOKGoogleEx2CORTEXM4.apk
--product/priv-app/HotwordEnrollmentXGoogleEx2CORTEXM4/HotwordEnrollmentXGoogleEx2CORTEXM4.apk
 
 # NFC
 vendor/etc/nfc/sec_s3nsen4_hwreg.bin
