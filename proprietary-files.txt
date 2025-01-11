@@ -39,14 +39,6 @@ vendor/firmware/dual_cal_wide_tele.bin
 product/priv-app/HotwordEnrollmentOKGoogleEx3CORTEXM4/HotwordEnrollmentOKGoogleEx3CORTEXM4.apk
 product/priv-app/HotwordEnrollmentXGoogleEx3CORTEXM4/HotwordEnrollmentXGoogleEx3CORTEXM4.apk
 
-# Fingerprint
-vendor/lib64/libbauthserver.so
-vendor/lib64/libbauthtzcommon.so
-vendor/lib64/libegis_fp_normal_sensor_test.so
-vendor/lib64/libgf_in_system_lib.so
-vendor/lib64/libqfp_sensortest.so
-vendor/lib64/libsynaFpSensorTestNwd.so
-
 # Firmware
 vendor/firmware/cs35l40-bot-dsp1-spk-prot-calib.bin
 vendor/firmware/cs35l40-bot-dsp1-spk-prot.bin
