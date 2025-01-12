@@ -19,7 +19,7 @@ include device/samsung/universal9830-common/BoardConfigCommon.mk
 DEVICE_PATH := device/samsung/x1s
 
 # Audio
-BOARD_USE_BTA2DP_OFFLOAD := true
+BOARD_USE_BTA2DP_OFFLOAD := false
 BOARD_USE_QUAD_MIC := true
 BOARD_USE_CAMCORDER_QUAD_MIC := false
 
