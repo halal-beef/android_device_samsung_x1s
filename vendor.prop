@@ -7,7 +7,6 @@ ro.vendor.fingerprint.sensor_location=720|2500|150
 
 # RIL
 ro.telephony.default_network=33,33
-ro.vendor.sec.radio.def_network=9
 
 # WiFi
 wifi.direct.interface=p2p-dev-wlan0
